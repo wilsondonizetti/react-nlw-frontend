@@ -27,7 +27,7 @@ const Landing = () => {
                     </a>
                 </div>
                 <span className="total-conections">
-                    Total de 200 conexões já realizadas
+                    Total de conexões já realizadas {'200'}
                     <img src={purpleHeartIcon} alt="Coração roxo"/>
                 </span>
             </div>
